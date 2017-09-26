@@ -1,0 +1,13 @@
+
+Create a web page that displays the Function Toolkit.
+This should be done with a table. 
+Create a folder in your ~/html/ directory called "functiontoolkit"
+Create another folder called "img/"
+Create an index.html file ~/html/functiontoolkit/
+Create a table that is 3 columns by 13 rows.
+All code should be html. You need to figure out how to do super-script, sub-script and square root (second root).
+The only graphics on this page are the function graphs.
+Create all graphs using a function graphing utility such as wolfram alpha. 
+https://www.wolframalpha.com/ 
+Then screen shot the graphics and edit them with gimp.
+The page should look like the pdf located in this repo.
